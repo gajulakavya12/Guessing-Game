@@ -19,7 +19,7 @@ This is a simple guessing game where the user is prompted to guess a randomly ge
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/guessing-game.git
+    git clone https://github.com/gajulakavya12/Guessing-Game
     ```
 2. Navigate to the project directory:
     ```sh
